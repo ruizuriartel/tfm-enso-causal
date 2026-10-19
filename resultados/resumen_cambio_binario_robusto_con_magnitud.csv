@@ -1,0 +1,4 @@
+escenario,origen,destino,tau,n_modelos,frac_aparece_democracia,frac_desaparece_democracia,frac_aparece_solo_calidad,frac_desaparece_solo_calidad,frac_aparece_calidad_independencia,frac_desaparece_calidad_independencia,tipo,robusto_0.4,robusto_0.5,robusto_0.6,robusto_0.7,robusto,delta_f_democracia,delta_f_solo_calidad,delta_f_calidad_independencia
+W_ssp585,Z200_PSA_PC2,TAS_land_PC2,-,7,0.571,0.143,0.575,0.148,0.557,0.135,aparece,True,True,False,False,True,0.19,0.182,0.22
+W_ssp585,OLR,PSI200,0,7,0.571,0.143,0.567,0.137,0.572,0.248,aparece,True,True,False,False,True,0.39,0.401,0.297
+W_ssp585,Z200_PNA,Z200_PSA_PC2,-,7,0.571,0.0,0.6,0.0,0.574,0.0,aparece,True,True,False,False,True,0.267,0.28,0.26

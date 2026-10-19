@@ -1,0 +1,8 @@
+modelo,f1_topologia,f1_mediana_boot,f1_p25,f1_p75,democracia,solo_calidad,calidad_independencia,familia
+ec_earth3_cc,0.667,0.56,0.5161,0.5926,0.1429,0.1484,0.1348,ECMWF
+access_cm2,0.696,0.5714,0.5185,0.6364,0.1429,0.1548,0.0938,HadAM
+cnrm_esm2_1,0.64,0.5333,0.5,0.5806,0.1429,0.1423,0.1293,ECMWF
+hadgem3_gc31_ll,0.72,0.5714,0.5294,0.6154,0.1429,0.1601,0.097,HadAM
+miroc6,0.522,0.5185,0.4615,0.5714,0.1429,0.1161,0.211,MIROC
+noresm2_mm,0.615,0.5714,0.5324,0.6154,0.1429,0.1368,0.2485,CESM/CAM
+ukesm1_0_ll,0.636,0.5,0.4654,0.5517,0.1429,0.1415,0.0857,HadAM

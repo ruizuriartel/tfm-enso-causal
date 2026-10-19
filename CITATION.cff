@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Si usas este código, cítalo con los datos de este archivo. Si además usas PCMCI+, cita también a los autores de tigramite (Runge, 2020; Runge et al., 2019)."
+title: "Código del TFM: Estructura causal de la respuesta atmosférica a ENSO bajo calentamiento global en observaciones y modelos CMIP6"
+type: software
+authors:
+  - family-names: "Ruiz Uriarte"
+    given-names: "Laura"
+    affiliation: "Universidad de Cantabria"
+repository-code: "https://github.com/ruizuriartel/tfm-enso-causal"
+license: GPL-3.0-or-later
+version: "1.0.0"
+abstract: >-
+  Código con el que se obtienen los resultados, tablas y figuras del Trabajo de Fin de Máster
+  del Máster en Matemáticas y Computación de la Universidad de Cantabria. Estudia si la estructura
+  causal de la respuesta atmosférica a ENSO cambia bajo calentamiento global, aplicando PCMCI+
+  (tigramite) a ocho nodos climáticos construidos a partir de observaciones y reanálisis y de
+  siete modelos CMIP6, en el periodo histórico y en los escenarios SSP2-4.5 y SSP5-8.5.
+keywords:
+  - inferencia causal
+  - PCMCI+
+  - ENSO
+  - teleconexiones
+  - CMIP6
+  - calentamiento global
+  - tigramite

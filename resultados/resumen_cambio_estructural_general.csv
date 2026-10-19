@@ -1,0 +1,15 @@
+modelo,escenario,ruido_int_mediana,ruido_hist_mediana,ruido_esc_mediana,ruido_int_p25,ruido_int_p75,dif_igualado_mediana,dif_sin_igualar_mediana,P_hist_igualado,P_esc_igualado,ventana_referencia,P_menor_igualado,P_menor_sin_igualar,P_menor_igualado_conjunto,cambio_estructural,artefacto_potencia
+ec_earth3_cc,W_ssp245,0.64,0.64,0.643,0.581,0.692,0.538,0.533,0.797,0.802,hist,0.797,0.815,0.792,False,False
+ec_earth3_cc,W_ssp585,0.636,0.64,0.625,0.571,0.692,0.516,0.516,0.827,0.802,esc,0.802,0.807,0.821,False,False
+access_cm2,W_ssp245,0.571,0.56,0.571,0.5,0.636,0.48,0.467,0.738,0.78,hist,0.738,0.74,0.761,False,False
+access_cm2,W_ssp585,0.583,0.56,0.609,0.522,0.645,0.5,0.485,0.674,0.828,hist,0.674,0.692,0.747,False,False
+cnrm_esm2_1,W_ssp245,0.56,0.552,0.571,0.5,0.621,0.483,0.467,0.724,0.771,hist,0.724,0.764,0.748,False,False
+cnrm_esm2_1,W_ssp585,0.563,0.552,0.581,0.5,0.632,0.444,0.437,0.833,0.885,hist,0.833,0.843,0.856,False,False
+hadgem3_gc31_ll,W_ssp245,0.6,0.615,0.588,0.538,0.667,0.467,0.452,0.887,0.835,esc,0.835,0.863,0.861,False,False
+hadgem3_gc31_ll,W_ssp585,0.625,0.615,0.643,0.571,0.69,0.467,0.462,0.886,0.93,hist,0.886,0.908,0.906,False,False
+miroc6,W_ssp245,0.552,0.545,0.552,0.484,0.609,0.444,0.462,0.788,0.783,esc,0.783,0.779,0.791,False,False
+miroc6,W_ssp585,0.562,0.545,0.571,0.5,0.629,0.462,0.452,0.781,0.85,hist,0.781,0.799,0.823,False,False
+noresm2_mm,W_ssp245,0.615,0.609,0.615,0.552,0.667,0.552,0.545,0.673,0.675,hist,0.673,0.701,0.676,False,False
+noresm2_mm,W_ssp585,0.629,0.609,0.645,0.562,0.69,0.533,0.538,0.734,0.812,hist,0.734,0.726,0.772,False,False
+ukesm1_0_ll,W_ssp245,0.593,0.609,0.583,0.538,0.667,0.481,0.467,0.872,0.807,esc,0.807,0.854,0.84,False,False
+ukesm1_0_ll,W_ssp585,0.593,0.609,0.571,0.522,0.667,0.467,0.452,0.89,0.789,esc,0.789,0.815,0.836,False,False

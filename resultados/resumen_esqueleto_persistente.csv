@@ -1,0 +1,6 @@
+origen,destino,tau,frac_persiste_W_ssp245_democracia,frac_persiste_W_ssp245_solo_calidad,frac_persiste_W_ssp245_calidad_independencia,frac_persiste_W_ssp585_democracia,frac_persiste_W_ssp585_solo_calidad,frac_persiste_W_ssp585_calidad_independencia,esqueleto
+CHI200,OLR,0,0.714,0.685,0.809,0.571,0.543,0.68,True
+CHI200,PSI200,0,1.0,1.0,1.0,1.0,1.0,1.0,True
+OLR,PR_land_PC2,0,1.0,1.0,1.0,1.0,1.0,1.0,True
+PSI200,Z200_PNA,0,1.0,1.0,1.0,1.0,1.0,1.0,True
+TAS_land_PC2,Z200_PNA,0,1.0,1.0,1.0,1.0,1.0,1.0,True

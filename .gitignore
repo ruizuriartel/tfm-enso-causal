@@ -1,0 +1,26 @@
+# Datos pesados: descargas, preprocesados y resultados intermedios
+data/
+*.nc
+*.pkl
+respaldo/
+viejo/
+
+# Artículos de referencia (copyright)
+docs/
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Entornos, credenciales y registros
+venv/
+.env
+*.log
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

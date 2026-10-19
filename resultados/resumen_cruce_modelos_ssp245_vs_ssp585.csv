@@ -1,0 +1,4 @@
+origen,destino,tau,tipo,modelos_W_ssp245,modelos_W_ssp585
+Z200_PSA_PC2,TAS_land_PC2,-,aparece,hadgem3_gc31_ll (+0.070),"access_cm2 (+0.216), cnrm_esm2_1 (+0.462), noresm2_mm (+0.516), ukesm1_0_ll (+0.404)"
+OLR,PSI200,0,aparece,hadgem3_gc31_ll (+0.920),"ec_earth3_cc (+0.500), cnrm_esm2_1 (+0.264), hadgem3_gc31_ll (+0.950), miroc6 (+0.540)"
+Z200_PNA,Z200_PSA_PC2,-,aparece,ninguno,"ec_earth3_cc (+0.468), access_cm2 (+0.462), hadgem3_gc31_ll (+0.382), noresm2_mm (+0.460)"

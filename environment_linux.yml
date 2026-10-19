@@ -1,0 +1,25 @@
+name: tfm-enso-causal
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14.6
+  # Comunes a los tres scripts
+  - numpy=2.4.6
+  - scipy=1.18.0
+  - pandas=3.0.3
+  - xarray=2026.4.0
+  - netcdf4=1.7.4
+  - tqdm=4.68.3
+  - matplotlib=3.11.0
+  # compute_wind_variables.py y sensibilidad_orden_helmholtz.py (Helmholtz, interpolación y EOF)
+  - windspharm=2.0.0
+  - pyspharm=1.0.9
+  - esmpy=8.9.1
+  - xesmf=0.9.2
+  - eofs=2.0.0
+  - regionmask=0.13.0
+  - geopandas=1.1.4
+  # download_pangeo.py (catálogo de Pangeo en Google Cloud Storage)
+  - dask=2026.6.0
+  - zarr=3.3.0
+  - gcsfs=2026.7.0
