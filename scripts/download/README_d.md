@@ -11,7 +11,7 @@ Descarga de los datos crudos: observaciones, reanálisis y ensemble CMIP6.
 | `download_era5.py` | Descarga ERA5 (viento en niveles de presión, geopotencial, presión a nivel del mar, radiación de onda larga saliente) vía la API de CDS. Requiere API key de CDS. |
 | `download_hadisst.py` | Descarga y descomprime la SST de HadISST desde el servidor del Met Office. Acceso directo, sin credenciales. |
 | `download_gpcc.py` | Descarga y concatena la precipitación mensual de GPCC (1946-2015) desde el repositorio abierto de DWD. Acceso directo, sin credenciales. |
-| `download_cru.py` | Descarga precipitación y temperatura de CRU TS4.09 desde el servidor de la UEA. Acceso directo, sin credenciales. |
+| `download_cru.py` | Descarga precipitación y temperatura de CRU TS4.09 desde el servidor de la UEA. Acceso directo, sin credenciales. Solo la temperatura se usa en el análisis, ya que la precipitación del trabajo procede de GPCC, así que la precipitación de CRU se descarga pero no se utiliza. |
 | `comparacion_miembro_ensamble.py` | Chequeo de control de calidad: recorre todos los ficheros CMIP6 descargados y verifica que, para cada par modelo-experimento, todas las variables comparten el mismo `variant_label`/`member_id`. |
 
 ## Credenciales

@@ -1,6 +1,6 @@
 # Estructura causal de la respuesta atmosférica a ENSO bajo calentamiento global en observaciones y modelos CMIP6
 
-Código del Trabajo de Fin de Máster del Máster en Matemáticas y Computación, Universidad de Cantabria.
+Código del Trabajo de Fin de Máster del Máster en Matemática y Computación, Universidad de Cantabria.
 
 **Autora:** Laura Ruiz Uriarte  
 **Director:** Roberto Suárez-Moreno
@@ -49,7 +49,7 @@ Los datos se regeneran ejecutando los scripts de `scripts/download/` y después 
 | CMIP6 (catálogo Pangeo) | cinco variables que CDS no ofrece (ver `scripts/download/README_d.md`) | anónimo, sin credenciales |
 | HadISST 1.1 (Met Office) | temperatura superficial del mar | descarga directa |
 | GPCC v2025 (DWD) | precipitación | descarga directa |
-| CRU TS4.09 (UEA) | temperatura y precipitación | descarga directa |
+| CRU TS4.09 (UEA) | temperatura a 2 m | descarga directa |
 
 Para usar la API de CDS hay que tener una cuenta, configurar `~/.cdsapirc` y aceptar los términos de uso de cada conjunto de datos en la web del CDS. Las versiones de los conjuntos de Pangeo están fijadas en `download_pangeo.py` para que la descarga sea reproducible.
 
@@ -148,10 +148,10 @@ Los artículos no se incluyen por copyright. La cita completa de cada uno está 
 - Runge, J. et al. (2023): revisión de inferencia causal para series temporales, recomendada por tigramite como punto de partida.
 - Nowack, P. et al. (2020): ponderación del ensamble por similitud causal.
 - Karmouche, S. et al. (2023): métrica F1 con desfase y signo.
-- Kuma, R. et al. (2023): familias de modelos CMIP6.
+- Kuma, P. et al. (2023): familias de modelos CMIP6.
 - Planton, Y. et al. (2021): métricas de ENSO en CMIP6.
 - Bretherton, C. S. et al. (1999): grados de libertad efectivos.
-- Langford, S. et al. (2001): coeficiente de congruencia.
+- Langford, E. et al. (2001): coeficiente de congruencia.
 
 Datos y software que conviene citar al usar este código:
 
@@ -163,7 +163,9 @@ Datos y software que conviene citar al usar este código:
 - Rustemeier, E. et al. (2025): GPCC Precipitation Analysis Monthly v2025 a 1,0° (Deutscher Wetterdienst).
 - Dawson, A. (2016): `windspharm`. Journal of Open Research Software.
 - Dawson, A. (2016): `eofs`. Journal of Open Research Software.
-- Zhuang, J. et al.: `xESMF` v0.9.2 (Zenodo).
+- Hauser, M. et al. (2024): `regionmask`. Zenodo.
+- Seabold, S. y Perktold, J. (2010): `statsmodels`. Proceedings of the 9th Python in Science Conference.
+- Zhuang, J. et al. (2025): `xESMF` v0.9.2. Zenodo.
 
 Los datos no se redistribuyen en este repositorio: cada fuente tiene sus propias condiciones de uso y se descarga desde su origen. Los datos de ERA5 y de CMIP6 obtenidos del CDS requieren citar el servicio de Copernicus y a cada grupo de modelización.
 

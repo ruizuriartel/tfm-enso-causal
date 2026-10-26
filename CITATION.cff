@@ -6,12 +6,14 @@ authors:
   - family-names: "Ruiz Uriarte"
     given-names: "Laura"
     affiliation: "Universidad de Cantabria"
+    orcid: "https://orcid.org/0009-0008-2520-8832"
 repository-code: "https://github.com/ruizuriartel/tfm-enso-causal"
 license: GPL-3.0-or-later
 version: "1.0.0"
+date-released: "2026-10-26"
 abstract: >-
   Código con el que se obtienen los resultados, tablas y figuras del Trabajo de Fin de Máster
-  del Máster en Matemáticas y Computación de la Universidad de Cantabria. Estudia si la estructura
+  del Máster en Matemática y Computación de la Universidad de Cantabria. Estudia si la estructura
   causal de la respuesta atmosférica a ENSO cambia bajo calentamiento global, aplicando PCMCI+
   (tigramite) a ocho nodos climáticos construidos a partir de observaciones y reanálisis y de
   siete modelos CMIP6, en el periodo histórico y en los escenarios SSP2-4.5 y SSP5-8.5.
