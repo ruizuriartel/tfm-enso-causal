@@ -11,6 +11,10 @@ repository-code: "https://github.com/ruizuriartel/tfm-enso-causal"
 license: GPL-3.0-or-later
 version: "1.0.0"
 date-released: "2026-10-26"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23675474
+    description: "Versión v1.0.0 archivada en Zenodo"
 abstract: >-
   Código con el que se obtienen los resultados, tablas y figuras del Trabajo de Fin de Máster
   del Máster en Matemática y Computación de la Universidad de Cantabria. Estudia si la estructura

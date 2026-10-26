@@ -173,7 +173,7 @@ Los datos no se redistribuyen en este repositorio: cada fuente tiene sus propias
 
 Si usas este código, cita la versión archivada en Zenodo. Si además usas PCMCI+, cita también a los autores de tigramite (Runge, 2020; Runge et al., 2019), como pide su licencia de uso.
 
-Ruiz Uriarte, L. (2026). *Código del TFM: Estructura causal de la respuesta atmosférica a ENSO bajo calentamiento global en observaciones y modelos CMIP6*. Zenodo. [DOI pendiente]
+Ruiz Uriarte, L. (2026). *Código del TFM: Estructura causal de la respuesta atmosférica a ENSO bajo calentamiento global en observaciones y modelos CMIP6*. Zenodo. https://doi.org/10.5281/zenodo.23675474
 
 ## Licencia
 
